@@ -1,0 +1,16 @@
+[
+    {
+        "country": "Denmark",
+        "protocols": [
+            "https"
+        ],
+        "url": "https://www.uex.dk/public/manjaro-arm/"
+    },
+    {
+        "country": "Denmark",
+        "protocols": [
+            "http"
+        ],
+        "url": "http://mirror.strits.dk/manjaro-arm/"
+    }    
+]
